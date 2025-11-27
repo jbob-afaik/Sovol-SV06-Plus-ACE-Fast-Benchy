@@ -1,0 +1,30 @@
+{
+    "deretraction_speed": [
+        "120",
+        "40"
+    ],
+    "from": "User",
+    "inherits": "Sovol SV06 Plus ACE 0.4 nozzle",
+    "is_custom_defined": "0",
+    "machine_max_jerk_x": [
+        "12"
+    ],
+    "machine_max_jerk_y": [
+        "12"
+    ],
+    "machine_max_speed_e": [
+        "150",
+        "50"
+    ],
+    "name": "Sovol SV06 Plus ACE 0.4 nozzle - Fast Benchy",
+    "nozzle_type": "brass",
+    "printer_settings_id": "Sovol SV06 Plus ACE 0.4 nozzle - Fast Benchy",
+    "retraction_length": [
+        "0.4"
+    ],
+    "retraction_speed": [
+        "120",
+        "40"
+    ],
+    "version": "1.9.0.2"
+}
