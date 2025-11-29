@@ -27,7 +27,10 @@
         "40"
     ],
     "filament_retraction_length": [
-        "0.4"
+        "0.8"
+    ],
+    "filament_retraction_speed": [
+        "60"
     ],
     "filament_settings_id": [
         "Fast Benchy - Generic PLA @System"
@@ -36,7 +39,7 @@
         "2"
     ],
     "filament_z_hop": [
-        "0.4"
+        "0"
     ],
     "from": "User",
     "full_fan_speed_layer": [
